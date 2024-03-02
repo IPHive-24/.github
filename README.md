@@ -1,5 +1,9 @@
-
-
+<div align="center">
+    <img src="https://discordapp.com/channels/1032347521445540021/1032347521445540024/1213473381198864395/logo.png" width="350" alt="Logo"/>
+    </a>
+    <br/>
+    <p><h2>IP Hive: </h2></p>
+    <p align="center">
 </p>
     <p></p>
 </div>
