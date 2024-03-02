@@ -15,7 +15,7 @@ Every proposal must follow the structure as mentioned below :
 - Estimated Time of Arrival (ETA) for Project Completion
 
 ### Code of Conduct
-Every project must follow the [CODE OF CONDUCT]() along with the above format mentioned. The project must not be an **already existing project in the Organization**. People who are interested in adding more features to existing projects can **contribute** to the same.
+Every project must follow the [CODE OF CONDUCT](https://github.com/ip-hive-24/.github/blob/main/CODEOFCONDUCT.md) along with the above format mentioned. The project must not be an **already existing project in the Organization**. People who are interested in adding more features to existing projects can **contribute** to the same.
 
 ### Documentation Requirements
 
