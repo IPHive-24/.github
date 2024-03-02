@@ -20,13 +20,13 @@ Through our diverse range of initiatives, including workshops 🛠️, hackathon
 
 ## How to Contribute❓️
 
-1️⃣ Proposal of Ideas: Share your innovative project ideas that align with our mission and goals. Provide a detailed description of your proposal, including its objectives and potential benefits to the community.[more]()
+1️⃣ Proposal of Ideas: Share your innovative project ideas that align with our mission and goals. Provide a detailed description of your proposal, including its objectives and potential benefits to the community.[more](https://github.com/ip-hive-24/.github/blob/main/CONTRIBUTORS.md#proposal)
 
-2️⃣ Contribute to Existing Projects: If you're keen on contributing to ongoing projects, please check the project's issues page or reach out to the project lead for ways to assist. Remember to adhere to the project's coding standards and guidelines when making alterations.[more]()
+2️⃣ Contribute to Existing Projects: If you're keen on contributing to ongoing projects, please check the project's issues page or reach out to the project lead for ways to assist. Remember to adhere to the project's coding standards and guidelines when making alterations.[more](https://github.com/ip-hive-24/.github/blob/main/CONTRIBUTORS.md#Pull-Requests)
 
-3️⃣ Report Bugs: If you encounter any bugs or issues while using our projects, please report them promptly. Provide detailed descriptions of the bugs, steps to reproduce them, and any relevant screenshots or error messages. Your feedback helps us maintain project quality and reliability.[more]()
+3️⃣ Report Bugs: If you encounter any bugs or issues while using our projects, please report them promptly. Provide detailed descriptions of the bugs, steps to reproduce them, and any relevant screenshots or error messages. Your feedback helps us maintain project quality and reliability.[more](https://github.com/ip-hive-24/.github/blob/main/CONTRIBUTORS.md#Tssues)
 
-4️⃣ Documentation: Documentation is crucial for the success of our project. Clear, comprehensive documentation enhances user understanding and promotes efficient usage. If you spot any gaps or have suggestions for enhancement, we welcome your contributions. Whether you prefer to submit a pull request or communicate directly with the project lead, your input is invaluable.[more]()
+4️⃣ Documentation: Documentation is crucial for the success of our project. Clear, comprehensive documentation enhances user understanding and promotes efficient usage. If you spot any gaps or have suggestions for enhancement, we welcome your contributions. Whether you prefer to submit a pull request or communicate directly with the project lead, your input is invaluable.
 
 5️⃣ Become a Part of Our Community: If you're enthusiastic about expanding your knowledge in coding and development, consider joining our community and participating in our events. We extend a warm welcome to individuals who are passionate about technology and keen on continuous learning.
 
@@ -35,7 +35,7 @@ Through our diverse range of initiatives, including workshops 🛠️, hackathon
 We carefully assess all contributions and promptly offer feedback. We appreciate your eagerness to contribute to IP Hive! 💻🙌
 
 > **Important:** <br>
-> Please note that the IPHive board members hold the authority to remove or decline proposals, issues, and PRs if they are deemed > to violate our [CODE OF CONDUCT](). Projects and websites of an extremely personal nature will **not** be considered for inclusion.
+> Please note that the IPHive board members hold the authority to remove or decline proposals, issues, and PRs if they are deemed > to violate our [CODE OF CONDUCT](https://github.com/ip-hive-24/.github/blob/main/CODEOFCONDUCT.md). Projects and websites of an extremely personal nature will **not** be considered for inclusion.
 
 ## 📧Contact Us
 If you have inquiries or wish to contact us, feel free to email us at 📩 barath.iphive24@gmail.com. We'll strive to promptly address your concerns.
@@ -50,4 +50,4 @@ Our projects are licensed under the MIT license, providing the following permiss
 - Modification
 - Private use
 
-For further details, please refer to the [LICENSE]() document.
+For further details, please refer to the [LICENSE](https://github.com/ip-hive-24/.github/blob/main/LICENSE.md) document.
