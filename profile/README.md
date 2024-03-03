@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://drive.google.com/file/d/1-xs7B43u4hktdNRtczD_7AVQPJpd1dHc/view?usp=drive_link" width="350" alt="Logo"/>
+    <img src="https://drive.google.com/drive/my-drive/logo.png" width="350" alt="Logo"/>
     </a>
     <br/>
     <p><h2>IP Hive: </h2></p>
