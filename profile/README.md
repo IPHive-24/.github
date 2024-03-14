@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://drive.google.com/drive/my-drive/logo.png" width="350" alt="Logo"/>
+    <img src="https://cdn.discordapp.com/attachments/1213544531778338843/1217724962425667705/logo.png" width="350" alt="Logo"/>
     </a>
     <br/>
     <p><h2>IP Hive: </h2></p>
